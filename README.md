@@ -1,3 +1,16 @@
+<h1 align="center">
+  Hi, I'm Lâm Thanh Quốc Thắng 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<p align="center">
+  <a href="https://github.com/thanglam2710">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=28&pause=1000&color=ACD3E2&background=FFFFFF00&center=true&vCenter=true&width=800&height=100&lines=Backend+Developer+%26+Frontend+Developer;ASP.NET+MVC+%26+ASP.NET+Web+API;React+%26+Next.js+Web+Frontend;Flutter+Mobile+Application+Development" />
+  </a>
+</p>
+
+<br>
+
 # 💫About Me :
 🏫 Software Engineering student at FPT University
 
