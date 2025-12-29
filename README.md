@@ -61,12 +61,11 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-
-
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=thanglam2710&theme=radical&hide_border=true&count_private=true&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thanglam2710&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanglam2710&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thanglam2710&theme=radical&hide_border=true&count_private=false&include_all_commits=true)<br/>
+![](https://streak-stats.demolab.com?user=thanglam2710&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thanglam2710&theme=radical&hide_border=true&layout=compact)
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=thanglam2710&theme=radical&no-frame=false&no-bg=true&margin-w=4)
